@@ -1,3 +1,8 @@
-simple_git_auto_push
 
-shell for git push 
+## use
+
+  - cd simple_git_auto_push
+  
+  - npm link
+  
+  - command 'cli' in your project dir
